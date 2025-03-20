@@ -1,0 +1,7 @@
+.posts {
+    flex-direction: row;
+    padding: 5%;
+    padding-left: 120px;
+    width: 300px;
+    cursor: pointer;  
+}
